@@ -1,4 +1,3 @@
-const config = require('../config.json');
 
 exports.run = (client) => {
     console.log(`[Radio-Streaming-Bot] Bot ready in ${client.guilds.size} server(s).`);
